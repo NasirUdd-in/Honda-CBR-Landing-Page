@@ -1,0 +1,58 @@
+.hero-color{
+    background-color: #264653;
+}
+.hero-button{
+    background-color: #E76F51 !important;
+    border: 0px;
+}
+.hero-button:active{
+    border: 0px;  
+}
+.hero-button:focus{
+    border: 0px;  
+}
+
+.feature-bike{
+    filter: grayscale(100%);
+}
+
+i.fas.fa-star{
+    color: orange;
+}
+i.far.fa-star {
+    color: orange;
+}
+.accordion-button.active:focus {
+    background-color: white;
+}
+.accordion-button:focus {
+    
+}
+.form-subscribe
+{
+  max-width:600px;
+  margin:0 auto
+}
+.form-subscribe .form-control
+{
+  background-color:hsla(0,0%,100%,.8);
+  padding-left:24px;
+  padding-right:24px;
+  letter-spacing:1px;
+  border:none;
+  border-top-left-radius:36px;
+  border-bottom-left-radius:36px
+}
+.form-subscribe .form-control.focus,.form-subscribe .form-control:focus
+{
+  z-index:2;
+  background-color:hsla(0,0%,100%,.8)
+}
+.form-subscribe .btn
+{
+  border-top-right-radius:36px;
+  border-bottom-right-radius:36px;
+  background:#E76F51;
+  border-color:#E76F51;
+  height:46.5px;
+}
