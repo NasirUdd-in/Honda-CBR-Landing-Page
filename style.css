@@ -1,3 +1,6 @@
+/*--------------------------
+ hero-area 
+ ----------------------------*/
 .hero-color{
     background-color: #264653;
 }
@@ -11,7 +14,9 @@
 .hero-button:focus{
     border: 0px;  
 }
-
+/*----------------------------
+ feature-bike
+ ------------------------ */
 .feature-bike{
     filter: grayscale(100%);
 }
@@ -25,9 +30,9 @@ i.far.fa-star {
 .accordion-button.active:focus {
     background-color: white;
 }
-.accordion-button:focus {
-    
-}
+/*------------------------ 
+form-subscribe 
+-------------------------*/
 .form-subscribe
 {
   max-width:600px;
